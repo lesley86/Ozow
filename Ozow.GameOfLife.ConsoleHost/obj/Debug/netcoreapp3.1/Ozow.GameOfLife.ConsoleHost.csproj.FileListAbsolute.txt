@@ -1,0 +1,16 @@
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.exe
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.deps.json
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.runtimeconfig.json
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.runtimeconfig.dev.json
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.dll
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.pdb
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.Core.dll
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\bin\Debug\netcoreapp3.1\Ozow.GameOfLife.Core.pdb
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.csprojAssemblyReference.cache
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.AssemblyInfoInputs.cache
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.AssemblyInfo.cs
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.csproj.CoreCompileInputs.cache
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.csproj.CopyComplete
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.dll
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.pdb
+C:\workspace\Ozow\Ozow.GameOfLife.ConsoleHost\obj\Debug\netcoreapp3.1\Ozow.GameOfLife.ConsoleHost.genruntimeconfig.cache

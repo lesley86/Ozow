@@ -1,0 +1,13 @@
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\bin\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.exe
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\bin\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.deps.json
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\bin\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.runtimeconfig.json
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\bin\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.runtimeconfig.dev.json
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\bin\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.dll
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\bin\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.pdb
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.csprojAssemblyReference.cache
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.csproj.CoreCompileInputs.cache
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.AssemblyInfoInputs.cache
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.AssemblyInfo.cs
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.dll
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.pdb
+C:\workspace\Ozow\Ozow.TextSort.CosnoleHost\obj\Debug\netcoreapp3.1\Ozow.TextSort.CosnoleHost.genruntimeconfig.cache

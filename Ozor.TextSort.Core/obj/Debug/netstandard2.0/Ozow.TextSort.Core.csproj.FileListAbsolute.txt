@@ -1,0 +1,8 @@
+C:\workspace\Ozow\Ozor.TextSort.Core\bin\Debug\netstandard2.0\Ozow.TextSort.Core.deps.json
+C:\workspace\Ozow\Ozor.TextSort.Core\bin\Debug\netstandard2.0\Ozow.TextSort.Core.dll
+C:\workspace\Ozow\Ozor.TextSort.Core\bin\Debug\netstandard2.0\Ozow.TextSort.Core.pdb
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozow.TextSort.Core.AssemblyInfoInputs.cache
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozow.TextSort.Core.AssemblyInfo.cs
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozow.TextSort.Core.csproj.CoreCompileInputs.cache
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozow.TextSort.Core.dll
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozow.TextSort.Core.pdb

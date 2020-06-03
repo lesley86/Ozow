@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1GcncxmBNAfTsUqVdjBtPZnIRncU/HLOGvHfIv+5Hw6u+LHrtNL1zLwPGmebr6y1FwppZywle6nbigHTv+IAQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Ozow\\Ozor.TextSort.Core\\Ozow.TextSort.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lesley\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lesley\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

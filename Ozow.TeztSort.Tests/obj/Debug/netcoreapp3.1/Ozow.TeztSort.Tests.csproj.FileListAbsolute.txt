@@ -1,0 +1,5 @@
+C:\workspace\Ozow\Ozow.TeztSort.Tests\bin\Debug\netcoreapp3.1\Ozow.TeztSort.Tests.deps.json
+C:\workspace\Ozow\Ozow.TeztSort.Tests\bin\Debug\netcoreapp3.1\Ozow.TeztSort.Tests.dll
+C:\workspace\Ozow\Ozow.TeztSort.Tests\obj\Debug\netcoreapp3.1\Ozow.TeztSort.Tests.csprojAssemblyReference.cache
+C:\workspace\Ozow\Ozow.TeztSort.Tests\obj\Debug\netcoreapp3.1\Ozow.TeztSort.Tests.AssemblyInfoInputs.cache
+C:\workspace\Ozow\Ozow.TeztSort.Tests\obj\Debug\netcoreapp3.1\Ozow.TeztSort.Tests.AssemblyInfo.cs

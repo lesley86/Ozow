@@ -1,0 +1,9 @@
+C:\workspace\Ozow\Ozow.GameOfLife.Core\bin\Debug\netstandard2.0\Ozow.GameOfLife.Core.deps.json
+C:\workspace\Ozow\Ozow.GameOfLife.Core\bin\Debug\netstandard2.0\Ozow.GameOfLife.Core.dll
+C:\workspace\Ozow\Ozow.GameOfLife.Core\bin\Debug\netstandard2.0\Ozow.GameOfLife.Core.pdb
+C:\workspace\Ozow\Ozow.GameOfLife.Core\obj\Debug\netstandard2.0\Ozow.GameOfLife.Core.csprojAssemblyReference.cache
+C:\workspace\Ozow\Ozow.GameOfLife.Core\obj\Debug\netstandard2.0\Ozow.GameOfLife.Core.AssemblyInfoInputs.cache
+C:\workspace\Ozow\Ozow.GameOfLife.Core\obj\Debug\netstandard2.0\Ozow.GameOfLife.Core.AssemblyInfo.cs
+C:\workspace\Ozow\Ozow.GameOfLife.Core\obj\Debug\netstandard2.0\Ozow.GameOfLife.Core.csproj.CoreCompileInputs.cache
+C:\workspace\Ozow\Ozow.GameOfLife.Core\obj\Debug\netstandard2.0\Ozow.GameOfLife.Core.dll
+C:\workspace\Ozow\Ozow.GameOfLife.Core\obj\Debug\netstandard2.0\Ozow.GameOfLife.Core.pdb

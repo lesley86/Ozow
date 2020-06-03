@@ -1,0 +1,4 @@
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozor.TextSort.Core.csprojAssemblyReference.cache
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozor.TextSort.Core.csproj.CoreCompileInputs.cache
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozor.TextSort.Core.AssemblyInfoInputs.cache
+C:\workspace\Ozow\Ozor.TextSort.Core\obj\Debug\netstandard2.0\Ozor.TextSort.Core.AssemblyInfo.cs

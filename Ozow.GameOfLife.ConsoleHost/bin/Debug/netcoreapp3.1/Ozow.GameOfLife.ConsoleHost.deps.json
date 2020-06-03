@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ozow.GameOfLife.ConsoleHost/1.0.0": {
+        "dependencies": {
+          "Ozow.GameOfLife.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ozow.GameOfLife.ConsoleHost.dll": {}
+        }
+      },
+      "Ozow.GameOfLife.Core/1.0.0": {
+        "runtime": {
+          "Ozow.GameOfLife.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ozow.GameOfLife.ConsoleHost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ozow.GameOfLife.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
